@@ -1,5 +1,5 @@
 # Guess_the_number_by_vesgenov
-This is a simple game as a project task. 
+**This is a simple game as a project task. 
 
 Done by me, the goal of this project is a personal one - to train writing code and working with Github.
 
